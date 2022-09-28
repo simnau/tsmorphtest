@@ -7,6 +7,7 @@
     "start": "ts-node .",
     "types": "ts-node -T ./morph/add-types.ts",
     "props": "ts-node -T ./morph/convert-proptypes.ts",
+    "rename": "ts-node -T ./morph/rename-files-without-errors.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
