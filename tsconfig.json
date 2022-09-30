@@ -26,6 +26,6 @@
     "noErrorTruncation": true
   },
 
-  "include": ["./src"],
+  "include": ["./web/src"],
   "exclude": ["node_modules"]
 }
